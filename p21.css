@@ -1,0 +1,123 @@
+h1.myHead{
+  font-family: 'Rock Salt', cursive;
+  font-style: italic;
+  color: #407294;
+  font-size: 43px;
+  text-align: center;
+}
+h3{
+  font-family: 'Amatic SC', cursive;
+  font-size: 33px;
+  color: #FA8072;
+}
+h1.myHead1{
+  font-family: 'Holtwood One SC', serif;
+  text-align: center;
+  color: #ff66ff;
+  font-size: 45px;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 20px;
+  background-color: white;
+  padding: 15px;
+  text-align: center;
+  border-top: 4px dotted pink;
+  border-bottom: 4px dotted pink;
+  border-left: 6px ridge purple;
+  border-right: 6px ridge purple;
+}
+h1.head{
+  font-family: 'Anton', sans-serif;
+  color: #884dff;
+  font-size: 65px;
+  text-align: center;
+}
+.myClass{
+  background-color: #C6F8E5;
+  color: #4b70b4;
+  font-family: 'Amatic SC', cursive;
+  font-size: 35px;
+}
+.myClass1{
+  background-color: lightpink;
+  color:#35357e;
+}
+a:link {
+  color: Yellow;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: red;
+  font-size: 25px;
+}
+a:active {
+  color: #0000FF;
+}
+h1.myHead2{
+  font-family: 'Syncopate', sans-serif;
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  font-style: oblique;
+  background-color: #ff0066;
+}
+.body{
+  font-family: 'Cormorant Infant', serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+.body1{
+  background-image: url(back.jpg);
+}
+.body2{
+background-image: url(blue.jpg)
+}
+a:hover#link{
+  font-size: 50px;
+  color: #e6f2ff;
+  background-color: #e6f2ff;
+}
+#start{
+  background-color: maroon;
+  text-align: center;
+  color: white;
+  padding: 1em;
+  margin: 2em;
+  border-style: dashed;
+  border-width: 0.5em;
+  font-size: 30px
+}
+#Intro{
+  background-color: skyblue;
+  text-align: center;
+  color: white;
+}
+.box{
+  border-style: groove;
+  border-color: skyblue;
+  border-width: 2em;
+}
+#Intro1{
+  background-color: purple;
+  text-align: center;
+  color: white;
+}
+.box1{
+  border-style: dotted;
+  border-color: purple;
+  border-width: 1em;
+}
+#Intro2{
+  background-color: pink;
+  text-align: center;
+  color: white;
+}
+.box2{
+  border-style: double;
+  border-color: pink;
+  border-width: 2em;
+}
